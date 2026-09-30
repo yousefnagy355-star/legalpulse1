@@ -198,6 +198,9 @@ export function ChatComposer({
           </button>
         </div>
       </form>
+      <p className="mt-2 px-4 text-center text-xs text-gray-500">
+        LegalPulse AI can make mistakes. Verify important legal info with an attorney.
+      </p>
     </div>
   )
 }
